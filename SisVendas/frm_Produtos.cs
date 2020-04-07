@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace SisVendas
 {
-    public partial class Form1 : Form
+    public partial class frm_Produtos : Form
     {
-        public Form1()
+        public frm_Produtos()
         {
             InitializeComponent();
         }
+
     }
 }
